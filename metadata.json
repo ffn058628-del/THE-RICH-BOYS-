@@ -1,0 +1,6 @@
+{
+  "name": "Aura Dating",
+  "description": "Premium dating platform with cross-platform frames, swipe matching, real-time simulated chat with typing/read receipts, AI profile suggestions, fake profile audit, and a premium Stripe billing sandbox.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
